@@ -1,0 +1,15 @@
+{
+  "name": "control-lib",
+  "version": "0.0.0",
+  "description": "It's a library of controls",
+  "author": null,
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
