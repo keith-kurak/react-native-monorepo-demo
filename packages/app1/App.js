@@ -1,12 +1,11 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { TestControl } from "control-lib";
 
 export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <TestControl />
+        <Text>blah blah blah</Text>
       </View>
     );
   }

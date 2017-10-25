@@ -5,6 +5,10 @@
   "author": null,
   "private": true,
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llamaluvr/react-native-monorepo-demo/tree/master/packages/control-lib"
+  },
   "files": [
     "index.js"
   ],
