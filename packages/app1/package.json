@@ -9,6 +9,6 @@
     "expo": "^22.0.0",
     "react": "16.0.0-beta.5",
     "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.1.tar.gz",
-    "control-lib": "*"
+    "control-lib": "git://github.com/llamaluvr/react-native-monorepo-demo/tree/master/packages/control-lib"
   }
 }
